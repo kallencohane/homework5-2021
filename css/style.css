@@ -164,10 +164,11 @@ header{
   border: 10px solid black;
   padding: 30px;
   /*Your code here:*/
-  text-align: center;
-  margin: auto;
-
-
+  /* text-align: center;
+  display: grid;  
+  justify-content: center;  
+  align-content: center; */
+  align-self: center;
 }
 
 
